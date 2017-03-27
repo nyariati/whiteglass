@@ -2,7 +2,6 @@
 layout: post
 ---
 
-{% swagger /api/api-docs.json %}
 
 
 {% highlight ruby %}
